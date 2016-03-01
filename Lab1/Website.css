@@ -39,12 +39,11 @@ body{
 #at{
 	color: #000066;
 	font-size: 30px;
-	border-width:15px;	
+	border-width:5px;	
     border-style:outset;
     border-color: black;
     padding-top: 50px;
 	margin-top: 50px;
-	border-spacing: 10px 50px;
 }
 #mc{
 	color: #000066;
